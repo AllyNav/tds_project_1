@@ -14,3 +14,7 @@ This repository contains data about GitHub users in Delhi with over 100 follower
 - Date of collection: 2024-10-30
 - Only included users with 100+ followers
 - Up to 500 most recently pushed repositories per user
+
+## All the required code for each question 
+- code for all the questions
+- added as 1.py, 2.py and so on
